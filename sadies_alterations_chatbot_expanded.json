@@ -1,0 +1,211 @@
+{
+  "intents": [
+    {
+      "name": "Welcome",
+      "training_phrases": [
+        "Merhaba",
+        "Selam",
+        "Nasılsınız?",
+        "Yardımcı olabilir misiniz?",
+        "Sadie's Alterations"
+      ],
+      "responses": [
+        "Merhaba! Sadie's Alterations'a hoş geldiniz. Size nasıl yardımcı olabilirim?",
+        "Selam! Sadie's Alterations chatbot'una hoş geldiniz. Çalışma saatleri, adresimiz veya hizmetlerimiz hakkında bilgi almak ister misiniz?"
+      ]
+    },
+    {
+      "name": "Business_Hours",
+      "training_phrases": [
+        "Çalışma saatleriniz nelerdir?",
+        "Ne zaman açıksınız?",
+        "Hafta içi kaçta açılıyor?",
+        "Cumartesi açık mısınız?",
+        "Pazar günleri kapalı mı?",
+        "Açılış kapanış saatleri",
+        "Çalışma günleri"
+      ],
+      "responses": [
+        "Sadie's Alterations çalışma saatleri:\n- Pazartesi - Cuma: 10:00 - 18:00\n- Cumartesi: 10:00 - 16:00\n- Pazar günleri ve resmi tatillerde kapalıyız."
+      ]
+    },
+    {
+      "name": "Location",
+      "training_phrases": [
+        "Adresiniz neresi?",
+        "Neredesiniz?",
+        "Konumunuz nedir?",
+        "Dükkanınız nerede?",
+        "Nasıl gelebilirim?",
+        "Harita"
+      ],
+      "responses": [
+        "Sadie's Alterations, 7612 Wydown Blvd, Clayton, MO, 63105 adresinde bulunmaktadır. Yakınlarda geniş otopark mevcuttur. Konum için: [Google Haritalar](https://www.google.com.tr/maps/place/7612+Wydown+Blvd,+Clayton,+MO+63105,+Amerika+Birle%C5%9Fik+Devletleri/@38.6428336,-90.3362954,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cad76810eb6b:0xcf2776f35bdc85d8!8m2!3d38.6428294!4d-90.3337205!16s%2Fg%2F11c5d33vx6?hl=tr&entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D)"
+      ]
+    },
+    {
+      "name": "Contact_Info",
+      "training_phrases": [
+        "İletişim bilgileriniz nelerdir?",
+        "Telefon numaranız nedir?",
+        "E-posta adresiniz var mı?",
+        "Size nasıl ulaşabilirim?",
+        "Telefon",
+        "Mail"
+      ],
+      "responses": [
+        "Bize info@sadiesalteration.com adresinden e-posta gönderebilir veya 314-727-9976 numaralı telefondan ulaşabilirsiniz."
+      ]
+    },
+    {
+      "name": "General_Services",
+      "training_phrases": [
+        "Hangi hizmetleri sunuyorsunuz?",
+        "Ne tür tadilatlar yapıyorsunuz?",
+        "Kıyafet tamiri yapıyor musunuz?",
+        "Tekstil işleri yapıyor musunuz?",
+        "Kumaş tadilatı yapıyor musunuz?",
+        "Tüm hizmetleriniz nelerdir?",
+        "Elbise tadilatı",
+        "Pantolon paçası",
+        "Dikiş işleri",
+        "Genel tadilatlar"
+      ],
+      "responses": [
+        "Sadie's Alterations olarak her türlü tekstil ve kumaş tadilatı hizmeti sunmaktayız. Kapsamlı kıyafet tamir hizmetlerimizle gardırobunuzu yeniliyoruz. Kumaşla ilgili her türlü ihtiyacınız için bize danışabilirsiniz. Pantolon paçası, ceket daraltma, elbise boyu ayarlama, fermuar değişimi gibi birçok alanda uzmanız."
+      ]
+    },
+    {
+      "name": "About_Us",
+      "training_phrases": [
+        "Hakkınızda bilgi alabilir miyim?",
+        "Sadie's Alterations kimdir?",
+        "Ne zamandır bu işi yapıyorsunuz?",
+        "Şirketiniz hakkında bilgi"
+      ],
+      "responses": [
+        "Sadie's Alterations, 20 yılı aşkın süredir aile tarafından işletilen bir terzilik atölyesidir. Nesilden nesile aktarılan terzilik sanatıyla, her dikişte mükemmelliğe olan bağlılığımızı yansıtıyoruz. Müşteri memnuniyeti bizim için her şeyden önemlidir. Uzman terzilerimizle her parçaya hassasiyet ve özen gösteriyoruz."
+      ]
+    },
+    {
+      "name": "Pricing_General",
+      "training_phrases": [
+        "Tadilat fiyatları ne kadar?",
+        "Fiyatlandırma nasıl yapılıyor?",
+        "Bir tadilatın maliyeti nedir?",
+        "Ne kadar öderim?",
+        "Fiyat listesi var mı?"
+      ],
+      "responses": [
+        "Tadilat maliyeti, yapılacak işin karmaşıklığına, kumaşın türüne ve harcanacak zamana göre değişmektedir. En doğru fiyatlandırma için, kıyafetinizi mağazamıza getirerek uzmanlarımızdan ücretsiz danışmanlık almanızı öneririz. Şeffaf fiyat politikamızla, işleme başlamadan önce size net bir fiyat bilgisi sunarız."
+      ]
+    },
+    {
+      "name": "Turnaround_Time",
+      "training_phrases": [
+        "Tadilat ne kadar sürer?",
+        "Ne zaman teslim alabilirim?",
+        "Teslim süresi nedir?",
+        "Acil tadilat yapıyor musunuz?",
+        "Hızlı teslimat"
+      ],
+      "responses": [
+        "Genel tadilatlar genellikle 1 ila 2 hafta sürer. Ancak, işin yoğunluğuna ve tadilatın detayına göre bu süre değişebilir. Acil durumlar için lütfen bizimle iletişime geçin, size yardımcı olmak için elimizden geleni yaparız. Düğün elbiseleri gibi özel tadilatlar daha uzun sürebilir, bu yüzden erken gelmenizi tavsiye ederiz."
+      ]
+    },
+    {
+      "name": "Appointment_Needed",
+      "training_phrases": [
+        "Randevu almam gerekiyor mu?",
+        "Randevusuz gelebilir miyim?",
+        "Giriş serbest mi?",
+        "Görüşme için randevu"
+      ],
+      "responses": [
+        "Randevu almanızı şiddetle tavsiye ederiz. Randevu ile geldiğinizde, size özel olarak ayrılmış bir zaman diliminde uzmanlarımızla birebir görüşme fırsatı bulursunuz. Randevusuz gelen müşterilerimizi de kabul ediyoruz, ancak randevulu müşterilere öncelik verildiği için bekleme süresi olabilir."
+      ]
+    },
+    {
+      "name": "Suit_Alterations",
+      "training_phrases": [
+        "Takım elbise tadilatı yapıyor musunuz?",
+        "Ceket daraltma",
+        "Pantolon paçası takım elbise",
+        "Takım elbise kol boyu kısaltma",
+        "Takım elbise genişletme"
+      ],
+      "responses": [
+        "Evet, takım elbise tadilatlarında uzmanız. Ceket kol boyu ayarlamadan pantolon paçası kısaltmaya, ceketi tamamen söküp bedeninize göre yeniden kesmeye kadar geniş bir yelpazede hizmet sunuyoruz. Takım elbisenizin size mükemmel oturması için her detayı özenle ele alıyoruz. İster daha modern bir kesim isteyin, ister rahatlığını artırın, size özel çözümler sunarız."
+      ]
+    },
+    {
+      "name": "Wedding_Dress_Alterations",
+      "training_phrases": [
+        "Gelinlik tadilatı yapıyor musunuz?",
+        "Gelinlik boyu kısaltma",
+        "Gelinlik daraltma",
+        "Gelinlik modeli değiştirme",
+        "Düğün elbisesi tadilatı"
+      ],
+      "responses": [
+        "Düğün gününüz için gelinliğinizin kusursuz olmasını sağlıyoruz. Gelinlik tadilatları, diğer elbiselerdeki tadilatlara benzer olsa da, detaylara verdiğimiz önemle fark yaratıyoruz. Gelinliğinizin boyunu, bedenini ayarlayabilir, hatta stilini değiştirebiliriz. Uzman terzilerimiz, orijinal detayları koruyarak hayalinizdeki görünümü elde etmenize yardımcı olacaktır. Lütfen erken randevu almayı unutmayın."
+      ]
+    },
+    {
+      "name": "Vintage_Clothing_Alterations",
+      "training_phrases": [
+        "Eski kıyafetleri tadil ediyor musunuz?",
+        "Vintage kıyafet tamiri",
+        "Antika kıyafet yenileme",
+        "Eski elbiseleri güncelleyebilir misiniz?"
+      ],
+      "responses": [
+        "Kesinlikle! Gardırobunuzda uzun süredir duran ve yeniden giymek istediğiniz eski veya vintage kıyafetlerinize yeni bir hayat veriyoruz. Omuzları daraltma, pantolonları inceltme veya yanları biraz içeri alma gibi basit dokunuşlarla kıyafetlerinizin görünümünü tamamen değiştirebiliriz. Kumaşın durumu hakkında endişeleriniz varsa, uzmanlarımız size en iyi tavsiyeyi verecektir."
+      ]
+    },
+    {
+      "name": "Dress_Enlargement",
+      "training_phrases": [
+        "Elbiseyi büyütebilir misiniz?",
+        "Elbise genişletme",
+        "Kumaş yetersizse ne olur?",
+        "Dar elbiseyi nasıl genişletirim?"
+      ],
+      "responses": [
+        "Elbisenizi büyütmek için yaratıcı çözümler sunuyoruz. Yeterli kumaş olmasa bile, elbiseye stil sahibi yeni paneller ekleyerek veya korse tarzı bağcık detayları kullanarak size ihtiyacınız olan rahatlığı ve şıklığı sağlayabiliriz. Orijinal görünümünü bozmadan, size özel tasarımlarla elbisenizi bedeninize uygun hale getiriyoruz. Ücretsiz danışmanlık için bize uğrayın."
+      ]
+    },
+    {
+      "name": "Jeans_Repair",
+      "training_phrases": [
+        "Kot pantolon tamiri yapıyor musunuz?",
+        "Kot pantolon yırtığı",
+        "Ağ kısmı yırtık kot",
+        "Kot paçası"
+      ],
+      "responses": [
+        "Evet, kot pantolon tamiri en sık yaptığımız işlerden biridir. Özellikle ağ veya uyluk kısmındaki yırtıkları onararak kot pantolonlarınıza yeni bir ömür veriyoruz. Yama işçiliğimizle, onarılan bölge neredeyse fark edilmez hale gelir. Yırtık kotlarınızı atmayın, bize getirin, onları sizin için yenileyelim."
+      ]
+    },
+    {
+      "name": "Social_Media",
+      "training_phrases": [
+        "Sosyal medya hesaplarınız var mı?",
+        "Instagram'da mısınız?",
+        "Facebook sayfanız var mı?",
+        "Twitter hesabınız var mı?"
+      ],
+      "responses": [
+        "Evet, bizi sosyal medyada takip edebilirsiniz:\n- [Instagram](https://www.instagram.com)\n- [Facebook](https://www.facebook.com)\n- [Twitter](https://www.twitter.com)"
+      ]
+    },
+    {
+      "name": "Fallback",
+      "training_phrases": [],
+      "responses": [
+        "Üzgünüm, sorunuzu tam olarak anlayamadım. Çalışma saatleri, adres, iletişim veya hizmetlerimiz hakkında bilgi almak ister misiniz? Ya da belki pantolon, ceket, gelinlik tadilatı gibi spesifik bir konuda yardımcı olabilirim?",
+        "Bu konuda size nasıl yardımcı olabileceğimi anlayamadım. Lütfen sorunuzu daha açık bir şekilde ifade eder misiniz?"
+      ]
+    }
+  ]
+}

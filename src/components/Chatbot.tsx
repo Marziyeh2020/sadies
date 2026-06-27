@@ -126,7 +126,7 @@ export default function Chatbot() {
   return (
     <>
       {/* Floating Action Button */}
-      <div className="fixed bottom-10 right-10 md:bottom-20 md:right-20 z-[9999999]">
+      <div className={`fixed bottom-6 right-6 md:bottom-10 md:right-10 z-[9999998] ${isOpen ? "hidden md:block" : "block"}`}>
         <button
           onClick={() => setIsOpen(!isOpen)}
           className="relative w-14 h-14 md:w-20 md:h-20 bg-black border border-white/20 rounded-full flex items-center justify-center shadow-[0_0_20px_rgba(34,197,94,0.6)] hover:shadow-[0_0_30px_rgba(34,197,94,0.9)] hover:scale-105 hover:border-[#00FF66] transition-all duration-300 group cursor-pointer"
@@ -150,7 +150,7 @@ export default function Chatbot() {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 50, scale: 0.9 }}
             transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
-            className="fixed bottom-28 right-10 md:bottom-44 md:right-20 w-[90vw] sm:w-[400px] h-[600px] max-h-[80vh] bg-black/90 backdrop-blur-xl border border-white/10 rounded-2xl flex flex-col z-[9999999] shadow-2xl overflow-hidden"
+            className="fixed top-0 left-0 w-full h-[100dvh] md:top-auto md:left-auto md:bottom-28 md:right-8 md:w-[400px] md:h-[600px] md:max-h-[calc(100vh-140px)] bg-black/95 backdrop-blur-xl border-none md:border border-white/10 rounded-none md:rounded-2xl flex flex-col z-[9999999] shadow-2xl overflow-hidden"
           >
             {/* Header */}
             <div className="p-4 border-b border-white/10 flex items-center justify-between bg-white/[0.02]">

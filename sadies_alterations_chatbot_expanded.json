@@ -3,208 +3,208 @@
     {
       "name": "Welcome",
       "training_phrases": [
-        "Merhaba",
-        "Selam",
-        "Nasılsınız?",
-        "Yardımcı olabilir misiniz?",
+        "Hello",
+        "Hi there",
+        "How are you?",
+        "Can you help me?",
         "Sadie's Alterations"
       ],
       "responses": [
-        "Merhaba! Sadie's Alterations'a hoş geldiniz. Size nasıl yardımcı olabilirim?",
-        "Selam! Sadie's Alterations chatbot'una hoş geldiniz. Çalışma saatleri, adresimiz veya hizmetlerimiz hakkında bilgi almak ister misiniz?"
+        "Hello! Welcome to Sadie's Alterations. How can I assist you today?",
+        "Hi! Welcome to Sadie's Alterations chatbot. Would you like to know about our business hours, location, or services?"
       ]
     },
     {
       "name": "Business_Hours",
       "training_phrases": [
-        "Çalışma saatleriniz nelerdir?",
-        "Ne zaman açıksınız?",
-        "Hafta içi kaçta açılıyor?",
-        "Cumartesi açık mısınız?",
-        "Pazar günleri kapalı mı?",
-        "Açılış kapanış saatleri",
-        "Çalışma günleri"
+        "What are your business hours?",
+        "When are you open?",
+        "What time do you open on weekdays?",
+        "Are you open on Saturday?",
+        "Are you closed on Sundays?",
+        "Opening and closing times",
+        "Working days"
       ],
       "responses": [
-        "Sadie's Alterations çalışma saatleri:\n- Pazartesi - Cuma: 10:00 - 18:00\n- Cumartesi: 10:00 - 16:00\n- Pazar günleri ve resmi tatillerde kapalıyız."
+        "Sadie's Alterations business hours are:\n- Monday - Friday: 10:00 AM - 6:00 PM\n- Saturday: 10:00 AM - 4:00 PM\n- We are closed on Sundays and public holidays."
       ]
     },
     {
       "name": "Location",
       "training_phrases": [
-        "Adresiniz neresi?",
-        "Neredesiniz?",
-        "Konumunuz nedir?",
-        "Dükkanınız nerede?",
-        "Nasıl gelebilirim?",
-        "Harita"
+        "What is your address?",
+        "Where are you located?",
+        "What is your location?",
+        "Where is your shop?",
+        "How can I get there?",
+        "Map"
       ],
       "responses": [
-        "Sadie's Alterations, 7612 Wydown Blvd, Clayton, MO, 63105 adresinde bulunmaktadır. Yakınlarda geniş otopark mevcuttur. Konum için: [Google Haritalar](https://www.google.com.tr/maps/place/7612+Wydown+Blvd,+Clayton,+MO+63105,+Amerika+Birle%C5%9Fik+Devletleri/@38.6428336,-90.3362954,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cad76810eb6b:0xcf2776f35bdc85d8!8m2!3d38.6428294!4d-90.3337205!16s%2Fg%2F11c5d33vx6?hl=tr&entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D)"
+        "Sadie's Alterations is located at 7612 Wydown Blvd, Clayton, MO, 63105. Ample parking is available nearby. For our location: [Google Maps](https://www.google.com.tr/maps/place/7612+Wydown+Blvd,+Clayton,+MO+63105,+Amerika+Birle%C5%9Fik+Devletleri/@38.6428336,-90.3362954,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cad76810eb6b:0xcf2776f35bdc85d8!8m2!3d38.6428294!4d-90.3337205!16s%2Fg%2F11c5d33vx6?hl=tr&entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D)"
       ]
     },
     {
       "name": "Contact_Info",
       "training_phrases": [
-        "İletişim bilgileriniz nelerdir?",
-        "Telefon numaranız nedir?",
-        "E-posta adresiniz var mı?",
-        "Size nasıl ulaşabilirim?",
-        "Telefon",
-        "Mail"
+        "What are your contact details?",
+        "What is your phone number?",
+        "Do you have an email address?",
+        "How can I reach you?",
+        "Phone",
+        "Email"
       ],
       "responses": [
-        "Bize info@sadiesalteration.com adresinden e-posta gönderebilir veya 314-727-9976 numaralı telefondan ulaşabilirsiniz."
+        "You can email us at info@sadiesalteration.com or call us at 314-727-9976."
       ]
     },
     {
       "name": "General_Services",
       "training_phrases": [
-        "Hangi hizmetleri sunuyorsunuz?",
-        "Ne tür tadilatlar yapıyorsunuz?",
-        "Kıyafet tamiri yapıyor musunuz?",
-        "Tekstil işleri yapıyor musunuz?",
-        "Kumaş tadilatı yapıyor musunuz?",
-        "Tüm hizmetleriniz nelerdir?",
-        "Elbise tadilatı",
-        "Pantolon paçası",
-        "Dikiş işleri",
-        "Genel tadilatlar"
+        "What services do you offer?",
+        "What kind of alterations do you do?",
+        "Do you do clothing repair?",
+        "Do you work with textiles?",
+        "Do you do fabric alterations?",
+        "What are all your services?",
+        "Dress alterations",
+        "Pant hem",
+        "Sewing services",
+        "General alterations"
       ],
       "responses": [
-        "Sadie's Alterations olarak her türlü tekstil ve kumaş tadilatı hizmeti sunmaktayız. Kapsamlı kıyafet tamir hizmetlerimizle gardırobunuzu yeniliyoruz. Kumaşla ilgili her türlü ihtiyacınız için bize danışabilirsiniz. Pantolon paçası, ceket daraltma, elbise boyu ayarlama, fermuar değişimi gibi birçok alanda uzmanız."
+        "At Sadie's Alterations, we offer all kinds of textile and fabric alteration services. We refresh your wardrobe with our comprehensive clothing repair services. You can consult us for all your fabric-related needs. We specialize in pant hemming, jacket tapering, dress length adjustments, zipper replacements, and much more."
       ]
     },
     {
       "name": "About_Us",
       "training_phrases": [
-        "Hakkınızda bilgi alabilir miyim?",
-        "Sadie's Alterations kimdir?",
-        "Ne zamandır bu işi yapıyorsunuz?",
-        "Şirketiniz hakkında bilgi"
+        "Can I get information about you?",
+        "Who is Sadie's Alterations?",
+        "How long have you been in business?",
+        "Information about your company"
       ],
       "responses": [
-        "Sadie's Alterations, 20 yılı aşkın süredir aile tarafından işletilen bir terzilik atölyesidir. Nesilden nesile aktarılan terzilik sanatıyla, her dikişte mükemmelliğe olan bağlılığımızı yansıtıyoruz. Müşteri memnuniyeti bizim için her şeyden önemlidir. Uzman terzilerimizle her parçaya hassasiyet ve özen gösteriyoruz."
+        "Sadie's Alterations is a family-owned and operated tailoring shop with over 20 years of experience. We reflect our commitment to excellence in every stitch, passing down the art of tailoring from generation to generation. Customer satisfaction is paramount to us. Our expert tailors handle every piece with precision and care."
       ]
     },
     {
       "name": "Pricing_General",
       "training_phrases": [
-        "Tadilat fiyatları ne kadar?",
-        "Fiyatlandırma nasıl yapılıyor?",
-        "Bir tadilatın maliyeti nedir?",
-        "Ne kadar öderim?",
-        "Fiyat listesi var mı?"
+        "How much do alterations cost?",
+        "How is pricing determined?",
+        "What is the cost of an alteration?",
+        "How much will I pay?",
+        "Do you have a price list?"
       ],
       "responses": [
-        "Tadilat maliyeti, yapılacak işin karmaşıklığına, kumaşın türüne ve harcanacak zamana göre değişmektedir. En doğru fiyatlandırma için, kıyafetinizi mağazamıza getirerek uzmanlarımızdan ücretsiz danışmanlık almanızı öneririz. Şeffaf fiyat politikamızla, işleme başlamadan önce size net bir fiyat bilgisi sunarız."
+        "The cost of alterations varies depending on the complexity of the work, the type of fabric, and the time required. For the most accurate pricing, we recommend bringing your garment to our shop for a free consultation with our experts. With our transparent pricing policy, we will provide you with a clear price before starting any work."
       ]
     },
     {
       "name": "Turnaround_Time",
       "training_phrases": [
-        "Tadilat ne kadar sürer?",
-        "Ne zaman teslim alabilirim?",
-        "Teslim süresi nedir?",
-        "Acil tadilat yapıyor musunuz?",
-        "Hızlı teslimat"
+        "How long do alterations take?",
+        "When can I pick up my item?",
+        "What is the turnaround time?",
+        "Do you do rush alterations?",
+        "Fast delivery"
       ],
       "responses": [
-        "Genel tadilatlar genellikle 1 ila 2 hafta sürer. Ancak, işin yoğunluğuna ve tadilatın detayına göre bu süre değişebilir. Acil durumlar için lütfen bizimle iletişime geçin, size yardımcı olmak için elimizden geleni yaparız. Düğün elbiseleri gibi özel tadilatlar daha uzun sürebilir, bu yüzden erken gelmenizi tavsiye ederiz."
+        "General alterations usually take 1 to 2 weeks. However, this can vary depending on our workload and the detail of the alteration. For urgent requests, please contact us, and we will do our best to assist you. Special alterations like wedding dresses may take longer, so we advise coming in early."
       ]
     },
     {
       "name": "Appointment_Needed",
       "training_phrases": [
-        "Randevu almam gerekiyor mu?",
-        "Randevusuz gelebilir miyim?",
-        "Giriş serbest mi?",
-        "Görüşme için randevu"
+        "Do I need an appointment?",
+        "Can I walk in without an appointment?",
+        "Is walk-in allowed?",
+        "Appointment for consultation"
       ],
       "responses": [
-        "Randevu almanızı şiddetle tavsiye ederiz. Randevu ile geldiğinizde, size özel olarak ayrılmış bir zaman diliminde uzmanlarımızla birebir görüşme fırsatı bulursunuz. Randevusuz gelen müşterilerimizi de kabul ediyoruz, ancak randevulu müşterilere öncelik verildiği için bekleme süresi olabilir."
+        "We strongly recommend making an appointment. When you schedule an appointment, our experts will have a dedicated time slot to meet with you one-on-one. We do accept walk-ins, but customers with appointments are given priority, so there might be a waiting period."
       ]
     },
     {
       "name": "Suit_Alterations",
       "training_phrases": [
-        "Takım elbise tadilatı yapıyor musunuz?",
-        "Ceket daraltma",
-        "Pantolon paçası takım elbise",
-        "Takım elbise kol boyu kısaltma",
-        "Takım elbise genişletme"
+        "Do you do suit alterations?",
+        "Jacket tapering",
+        "Pant hemming for suits",
+        "Suit sleeve shortening",
+        "Suit enlargement"
       ],
       "responses": [
-        "Evet, takım elbise tadilatlarında uzmanız. Ceket kol boyu ayarlamadan pantolon paçası kısaltmaya, ceketi tamamen söküp bedeninize göre yeniden kesmeye kadar geniş bir yelpazede hizmet sunuyoruz. Takım elbisenizin size mükemmel oturması için her detayı özenle ele alıyoruz. İster daha modern bir kesim isteyin, ister rahatlığını artırın, size özel çözümler sunarız."
+        "Yes, we specialize in suit alterations. We offer a wide range of services, from adjusting jacket sleeve lengths and shortening pant hems to completely deconstructing and recutting your suit to fit your body perfectly. We meticulously handle every detail to ensure your suit fits you impeccably. Whether you desire a more modern cut or increased comfort, we provide custom solutions."
       ]
     },
     {
       "name": "Wedding_Dress_Alterations",
       "training_phrases": [
-        "Gelinlik tadilatı yapıyor musunuz?",
-        "Gelinlik boyu kısaltma",
-        "Gelinlik daraltma",
-        "Gelinlik modeli değiştirme",
-        "Düğün elbisesi tadilatı"
+        "Do you alter wedding dresses?",
+        "Wedding dress hemming",
+        "Wedding dress tapering",
+        "Can you change the style of a wedding dress?",
+        "Bridal gown alterations"
       ],
       "responses": [
-        "Düğün gününüz için gelinliğinizin kusursuz olmasını sağlıyoruz. Gelinlik tadilatları, diğer elbiselerdeki tadilatlara benzer olsa da, detaylara verdiğimiz önemle fark yaratıyoruz. Gelinliğinizin boyunu, bedenini ayarlayabilir, hatta stilini değiştirebiliriz. Uzman terzilerimiz, orijinal detayları koruyarak hayalinizdeki görünümü elde etmenize yardımcı olacaktır. Lütfen erken randevu almayı unutmayın."
+        "We ensure your wedding dress is flawless for your special day. While wedding dress alterations are similar to other dress alterations, we stand out with our attention to detail. We can adjust the length, size, and even change the style of your wedding dress. Our expert tailors will help you achieve your dream look while preserving the original details. Please remember to schedule your appointment early."
       ]
     },
     {
       "name": "Vintage_Clothing_Alterations",
       "training_phrases": [
-        "Eski kıyafetleri tadil ediyor musunuz?",
-        "Vintage kıyafet tamiri",
-        "Antika kıyafet yenileme",
-        "Eski elbiseleri güncelleyebilir misiniz?"
+        "Do you alter old clothes?",
+        "Vintage clothing repair",
+        "Antique clothing restoration",
+        "Can you update old dresses?"
       ],
       "responses": [
-        "Kesinlikle! Gardırobunuzda uzun süredir duran ve yeniden giymek istediğiniz eski veya vintage kıyafetlerinize yeni bir hayat veriyoruz. Omuzları daraltma, pantolonları inceltme veya yanları biraz içeri alma gibi basit dokunuşlarla kıyafetlerinizin görünümünü tamamen değiştirebiliriz. Kumaşın durumu hakkında endişeleriniz varsa, uzmanlarımız size en iyi tavsiyeyi verecektir."
+        "Absolutely! We give new life to your old or vintage clothes that have been sitting in your wardrobe, waiting to be worn again. With simple touches like narrowing shoulders, tapering pants, or taking in the sides, we can completely transform the look of your garments. If you have concerns about the fabric's condition, our experts will provide the best advice."
       ]
     },
     {
       "name": "Dress_Enlargement",
       "training_phrases": [
-        "Elbiseyi büyütebilir misiniz?",
-        "Elbise genişletme",
-        "Kumaş yetersizse ne olur?",
-        "Dar elbiseyi nasıl genişletirim?"
+        "Can you make a dress bigger?",
+        "Dress enlargement",
+        "What if there isn't enough fabric?",
+        "How to enlarge a tight dress?"
       ],
       "responses": [
-        "Elbisenizi büyütmek için yaratıcı çözümler sunuyoruz. Yeterli kumaş olmasa bile, elbiseye stil sahibi yeni paneller ekleyerek veya korse tarzı bağcık detayları kullanarak size ihtiyacınız olan rahatlığı ve şıklığı sağlayabiliriz. Orijinal görünümünü bozmadan, size özel tasarımlarla elbisenizi bedeninize uygun hale getiriyoruz. Ücretsiz danışmanlık için bize uğrayın."
+        "We offer creative solutions to enlarge your dress. Even if there isn't enough fabric, we can add stylish new panels or use corset-style lacing details to provide the comfort and elegance you need. We tailor your dress to fit you perfectly with custom designs, without compromising its original look. Visit us for a free consultation."
       ]
     },
     {
       "name": "Jeans_Repair",
       "training_phrases": [
-        "Kot pantolon tamiri yapıyor musunuz?",
-        "Kot pantolon yırtığı",
-        "Ağ kısmı yırtık kot",
-        "Kot paçası"
+        "Do you repair jeans?",
+        "Jeans tear repair",
+        "Crotch tear in jeans",
+        "Jeans hem"
       ],
       "responses": [
-        "Evet, kot pantolon tamiri en sık yaptığımız işlerden biridir. Özellikle ağ veya uyluk kısmındaki yırtıkları onararak kot pantolonlarınıza yeni bir ömür veriyoruz. Yama işçiliğimizle, onarılan bölge neredeyse fark edilmez hale gelir. Yırtık kotlarınızı atmayın, bize getirin, onları sizin için yenileyelim."
+        "Yes, jeans repair is one of our most common services. We give your jeans a new lease on life by repairing tears, especially in the crotch or thigh area. With our patching craftsmanship, the repaired area becomes almost unnoticeable. Don't throw away your torn jeans; bring them to us, and we'll renew them for you."
       ]
     },
     {
       "name": "Social_Media",
       "training_phrases": [
-        "Sosyal medya hesaplarınız var mı?",
-        "Instagram'da mısınız?",
-        "Facebook sayfanız var mı?",
-        "Twitter hesabınız var mı?"
+        "Do you have social media accounts?",
+        "Are you on Instagram?",
+        "Do you have a Facebook page?",
+        "Do you have a Twitter account?"
       ],
       "responses": [
-        "Evet, bizi sosyal medyada takip edebilirsiniz:\n- [Instagram](https://www.instagram.com)\n- [Facebook](https://www.facebook.com)\n- [Twitter](https://www.twitter.com)"
+        "Yes, you can follow us on social media:\n- [Instagram](https://www.instagram.com)\n- [Facebook](https://www.facebook.com)\n- [Twitter](https://www.twitter.com)"
       ]
     },
     {
       "name": "Fallback",
       "training_phrases": [],
       "responses": [
-        "Üzgünüm, sorunuzu tam olarak anlayamadım. Çalışma saatleri, adres, iletişim veya hizmetlerimiz hakkında bilgi almak ister misiniz? Ya da belki pantolon, ceket, gelinlik tadilatı gibi spesifik bir konuda yardımcı olabilirim?",
-        "Bu konuda size nasıl yardımcı olabileceğimi anlayamadım. Lütfen sorunuzu daha açık bir şekilde ifade eder misiniz?"
+        "I'm sorry, I didn't quite understand your question. Would you like to know about our business hours, location, contact information, or services? Or perhaps I can help with a specific alteration like pants, jackets, or wedding dresses?",
+        "I couldn't understand how I can assist you with this. Could you please rephrase your question more clearly?"
       ]
     }
   ]
